@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HotPizza</string>
+    <string name="a_partir_de">a partir de:</string>
+    <string name="search">Search</string>
+    <string name="escolha_seu_sabor">Escolha seu sabor</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tamanho_p">P</string>
+    <string name="tamanho_g">G</string>
+    <string name="tamanho_m">M</string>
+    <string name="escolha_tamanho">Escolha o tamanho</string>
+    <string name="info_success">Compra efetuada com sucesso!</string>
+    <string name="voltar">Voltar</string>
+    <string name="senha">Senha</string>
+    <string name="usuario">Usuário</string>
+    <string name="entrar">Entrar</string>
+    <string name="comprar">Comprar</string>
+    <string name="imagem_pizza">Imagem pizza</string>
+    <string name="icone_de_estrelas">icone de estrelas</string>
+</resources>
